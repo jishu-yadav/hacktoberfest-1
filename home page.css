@@ -41,7 +41,7 @@
     top: 50vh;
   }
   
-  button {
+  .button-home-page {
     display: block;
     cursor: pointer;
     outline: none;
